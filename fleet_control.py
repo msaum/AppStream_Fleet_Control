@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
-Name: stop_fleet.py
-Purpose: Stop an Appstream Fleet
+Name: fleet_control.py
+Purpose: Manage starting and stopping an Appstream Fleet
 Version: 1.0
 Date: September 23, 2017
 Author: Mark Saum
